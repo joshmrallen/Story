@@ -1,1 +1,3 @@
 A long, long time ago in a remote git repository far, far away...
+Aliens came to the git Repository under cover of colaboration.
+Nobody knew they were there and noone suspected the plot they were gradually unfolding under the collaborators noses..
